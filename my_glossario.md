@@ -2,6 +2,12 @@
 
 Coleção de palavras e/ou expressões sobre o direito digital
 
+## **Autoregulamentação e Solução de conflitos**
+
+**Autoregulamentação:**
+
+**Solução de confiltos:**
+
 ## **Áreas de atuação do direito digital**
 
 **Contencioso:** lida com a representação de pessoas que foram alvos de algum tipo de vazamento ou roubo de informações pessoas de uma vítima.
@@ -30,6 +36,14 @@ Um padrão ou costume estabelecido, boas praticas.
 
 **Regulamentos:** Ato ou efeito de regular, de estabelecer regras. Estatuto, instrução que prescreve o que deve ser feito. Conjunto de normas.
 
+## **O que é Compliance**
+
+É um conjunto de mecanismos e procedimentos voltados à proteção da integridade e da ética das empresas, com o incentivo institucional à denúncia de irregularidades para apuração e punição.
+
+No Brasil, a edição da **Lei Federal 12.846/2013 (Lei Anticorrupção ou Lei da Probidade Empresarial)** levantou esforços na prevenção e combate a práticas ilícitas praticadas contra a Administração Pública.
+
+**Complaince e o Direito:** Profissional de Direito pode atuar na condução e implementação de programas de compliance nas empresas como um orientador das exigências legais.
+
 ## **O que é Direito Digital**
 
 Ramo do direito que tem como objetivo proporcionar as normatizações e regulamentações do uso dos ambientes digitais pelas pessoas, além de oferecer proteção de informações contidas nesses espaços e em aparelhos eletrônicos.
@@ -49,3 +63,5 @@ A grande maioria das informações de pessoas, organizações e governos do mund
 ## Referencias
 
 [Direito Digital](https://www.projuxaris.com.br/direito-digital/)
+
+[Compliance](http://genjuridico.com.br/2019/09/03/o-que-e-compliance-direito/)
