@@ -54,7 +54,7 @@ Ramo do direito que tem como objetivo proporcionar as normatizações e regulame
 
 **Marco Civil da Internet (lei nº 12.965/2014):** Segunda lei e estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil, além de estipular diretrizes para a ação do Estado dentro das redes e preservar valores como liberdade de expressão, neutralidade e privacidade.
 
-**Lei Geral de Proteção de Dados Pessoais (LGPDP) (lei nº 13.709/2018):** Terceira lei e mais relevante. Tem como objetivo específico resguardar os dados pessoais de pessoas e empresas que estão dentro da internet. Garante maior transparência das empresas com o público, mostrando como utilizam dados pessoais dos indivíduos.
+**Lei Geral de Proteção de Dados Pessoais (LGPDP) (lei nº 13.709/2018):** Terceira lei e mais relevante. Tem como objetivo específico resguardar os dados pessoais de pessoas e empresas que estão dentro da internet. Garante maior transparência das empresas com o público, mostrando como utilizam dados pessoais dos indivíduos. Criação de um orgão para monitoramento e fiscalização (Agência Publica de Proteção de Dados (ANPD))
 
 ## **Importância do Direito Digital**
 
