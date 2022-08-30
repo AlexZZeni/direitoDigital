@@ -30,11 +30,13 @@ Regra, prescrição escrita que emana da autoridade soberana de uma dada socieda
 
 É uma regra obrigatorio.
 
+**Regulamentos:** Ato ou efeito de regular, de estabelecer regras. Estatuto, instrução que prescreve o que deve ser feito. Conjunto de normas.
+
 **Normas:** Aquilo que regula procedimentos ou atos; regra, princípio, padrão, lei.
 
 Um padrão ou costume estabelecido, boas praticas.
 
-**Regulamentos:** Ato ou efeito de regular, de estabelecer regras. Estatuto, instrução que prescreve o que deve ser feito. Conjunto de normas.
+![Mapa Mental](img/mapa_mental_leis_normas_regulamentos.png)
 
 ## **O que é Compliance**
 
@@ -62,6 +64,8 @@ Ramo do direito que tem como objetivo proporcionar as normatizações e regulame
 
 **Lei Geral de Proteção de Dados Pessoais (LGPDP) (lei nº 13.709/2018):** Terceira lei e mais relevante. Tem como objetivo específico resguardar os dados pessoais de pessoas e empresas que estão dentro da internet. Garante maior transparência das empresas com o público, mostrando como utilizam dados pessoais dos indivíduos. Criação de um orgão para monitoramento e fiscalização (Agência Publica de Proteção de Dados (ANPD))
 
+![Mapa Mental](img/mapa_mental_3_leis.png)
+
 ## **Importância do Direito Digital**
 
 A grande maioria das informações de pessoas, organizações e governos do mundo inteiro está contida atualmente na internet. Continuidade da economia e das sociedades está intrinsicamente à rede mundial de computadores. Área não só fundamental para a continuidade da evolução tecnológica e sua coabitação com o desenvolvimento humano, mas também crítica para a proteção desses dados e informações valiosíssimos para esses grupos.
@@ -69,19 +73,40 @@ A grande maioria das informações de pessoas, organizações e governos do mund
 
 ## **Outsourcing/Terceirização**
 
-**O que é:** Outsourcing (terceirização) é transferir tarefas, operações, trabalhos ou processos para uma força de trabalho externa, contratando terceiros por um período de tempo determinado.
+**O que é:** Outsourcing (ou terceirização) é transferir tarefas, operações, trabalhos ou processos para uma força de trabalho externa, contratando terceiros por um período de tempo determinado.
 
 **Vantagens:**
+- Estrutura mais enxuta
+- Redução de custos
+- Maior eficiência
+- Melhor qualidade na atividade terceirizada
+- Flexibilidade do setor
+- Redução de custos com manutenção
+- Maior foco no objetivo do negócio
 
 **Desvantagens:**
+- Dificuldade na integração das atividades
+- Dificuldade na gestão dos processos
+- Dependência
+- Objetivos desalinhados
+- Maiores custos
 
 ## **Empresas Virtuais**
 
 **O que é:** Também chamada de ILTDA ou i-LTDA, é um tipo de entidade econômica que se realiza principalmente via Internet.
 
 **Vantagens:**
+- Baixo custo
+- Disponibilidade
+- Praticidade na compra
+- Acessibilidade
+- Detalhes
 
 **Desvantagens:**
+- Atendimento
+- Experiência
+- Atrasos
+- Sistema antifraude
 
 ## Referencias
 
