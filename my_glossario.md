@@ -1,12 +1,7 @@
+
 # Glossario
 
 Coleção de palavras e/ou expressões sobre o direito digital
-
-## **Autoregulamentação e Solução de conflitos**
-
-**Autoregulamentação:**
-
-**Solução de confiltos:**
 
 ## **Áreas de atuação do direito digital**
 
@@ -17,6 +12,16 @@ Coleção de palavras e/ou expressões sobre o direito digital
 **Processos criminais:** addvogado que lida com processos crimianis relacionados a area digital, com conhecimento em direito penal e tecnologia.
 
 **Contratos:** criação de contratos e contemplando as particularidades das organizações que estabelecem suas atividades pela internet.
+
+## **Autorregulamentação e Solução de conflitos**
+
+**Autorregulamentação:** Acto ou efeito de se auto-regulamentar ou de estabelecer os seus próprios regulamentos ou normas. Através desse princípio, um grupo de pessoas ou organizações estabelece um conjunto de regras que visam garantir qualidade, segurança e responsabilidade diante de seus serviços e/ou produtos.
+
+Descreve um grupo de pessoas ou organizações que exercem todas as funções necessárias de poder sem a intervenção de qualquer autoridade maior que os limite
+
+**Solução de conflitos:** Processos judiciais podem demorar alguns anos para serem julgados, por isso os meios alternativos de solução de conflitos vêm ganhando espaço entre os operadores do Direito.
+
+O uso de outros métodos para a resolução de disputas colabora para o alcance de soluções mais efetivas, justas e rápidas. A conciliação, a mediação, a arbitragem e a autocomposição são meios de resolução dos conflitos não impostos pelo Judiciário
 
 ## **Código de defesa do consumidor**
 
@@ -38,6 +43,37 @@ Um padrão ou costume estabelecido, boas praticas.
 
 ![Mapa Mental](img/mapa_mental_leis_normas_regulamentos.png)
 
+## **Empresas Virtuais**
+
+**O que é:** Também chamada de ILTDA ou i-LTDA, é um tipo de entidade econômica que se realiza principalmente via Internet.
+
+**Vantagens:**
+- Baixo custo
+- Disponibilidade
+- Praticidade na compra
+- Acessibilidade
+- Detalhes
+
+**Desvantagens:**
+- Atendimento
+- Experiência
+- Atrasos
+- Sistema antifraude
+
+## **Importância do Direito Digital**
+
+A grande maioria das informações de pessoas, organizações e governos do mundo inteiro está contida atualmente na internet. Continuidade da economia e das sociedades está intrinsicamente à rede mundial de computadores. Área não só fundamental para a continuidade da evolução tecnológica e sua coabitação com o desenvolvimento humano, mas também crítica para a proteção desses dados e informações valiosíssimos para esses grupos.
+
+## **Leis**
+
+**Lei Carolina Dieckmann (lei nº 12.737/2012):** Primeira lei e traz em seu texto a tipificação de crimes informáticos, alterando o Código Penal de acordo. Uso indevido de dados pessoais, principalmente de serviços prestados. Penas para crimes como invasão de aparelhos eletrônicos, interrupção de serviços digitais ou de conexão, falsificação de documentos ou de cartões de crédito ou débito.
+
+**Marco Civil da Internet (lei nº 12.965/2014):** Segunda lei e estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil, além de estipular diretrizes para a ação do Estado dentro das redes e preservar valores como liberdade de expressão, neutralidade e privacidade.
+
+**Lei Geral de Proteção de Dados Pessoais (LGPDP) (lei nº 13.709/2018):** Terceira lei e mais relevante. Tem como objetivo específico resguardar os dados pessoais de pessoas e empresas que estão dentro da internet. Garante maior transparência das empresas com o público, mostrando como utilizam dados pessoais dos indivíduos. Criação de um orgão para monitoramento e fiscalização (Agência Publica de Proteção de Dados (ANPD))
+
+![Mapa Mental](img/mapa_mental_3_leis.png)
+
 ## **O que é Compliance**
 
 É um conjunto de mecanismos e procedimentos voltados à proteção da integridade e da ética das empresas, com o incentivo institucional à denúncia de irregularidades para apuração e punição.
@@ -55,21 +91,6 @@ No Brasil, a edição da **Lei Federal 12.846/2013 (Lei Anticorrupção ou Lei d
 ## **O que é Direito Digital**
 
 Ramo do direito que tem como objetivo proporcionar as normatizações e regulamentações do uso dos ambientes digitais pelas pessoas, além de oferecer proteção de informações contidas nesses espaços e em aparelhos eletrônicos.
-
-## **Leis**
-
-**Lei Carolina Dieckmann (lei nº 12.737/2012):** Primeira lei e traz em seu texto a tipificação de crimes informáticos, alterando o Código Penal de acordo. Uso indevido de dados pessoais, principalmente de serviços prestados. Penas para crimes como invasão de aparelhos eletrônicos, interrupção de serviços digitais ou de conexão, falsificação de documentos ou de cartões de crédito ou débito.
-
-**Marco Civil da Internet (lei nº 12.965/2014):** Segunda lei e estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil, além de estipular diretrizes para a ação do Estado dentro das redes e preservar valores como liberdade de expressão, neutralidade e privacidade.
-
-**Lei Geral de Proteção de Dados Pessoais (LGPDP) (lei nº 13.709/2018):** Terceira lei e mais relevante. Tem como objetivo específico resguardar os dados pessoais de pessoas e empresas que estão dentro da internet. Garante maior transparência das empresas com o público, mostrando como utilizam dados pessoais dos indivíduos. Criação de um orgão para monitoramento e fiscalização (Agência Publica de Proteção de Dados (ANPD))
-
-![Mapa Mental](img/mapa_mental_3_leis.png)
-
-## **Importância do Direito Digital**
-
-A grande maioria das informações de pessoas, organizações e governos do mundo inteiro está contida atualmente na internet. Continuidade da economia e das sociedades está intrinsicamente à rede mundial de computadores. Área não só fundamental para a continuidade da evolução tecnológica e sua coabitação com o desenvolvimento humano, mas também crítica para a proteção desses dados e informações valiosíssimos para esses grupos.
-
 
 ## **Outsourcing/Terceirização**
 
@@ -90,23 +111,6 @@ A grande maioria das informações de pessoas, organizações e governos do mund
 - Dependência
 - Objetivos desalinhados
 - Maiores custos
-
-## **Empresas Virtuais**
-
-**O que é:** Também chamada de ILTDA ou i-LTDA, é um tipo de entidade econômica que se realiza principalmente via Internet.
-
-**Vantagens:**
-- Baixo custo
-- Disponibilidade
-- Praticidade na compra
-- Acessibilidade
-- Detalhes
-
-**Desvantagens:**
-- Atendimento
-- Experiência
-- Atrasos
-- Sistema antifraude
 
 ## Referencias
 
