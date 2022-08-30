@@ -40,9 +40,15 @@ Um padrão ou costume estabelecido, boas praticas.
 
 É um conjunto de mecanismos e procedimentos voltados à proteção da integridade e da ética das empresas, com o incentivo institucional à denúncia de irregularidades para apuração e punição.
 
+- Combater "corrupção"
+- garantir integridade
+- Garantir transparência (vertical e horizontal)
+
 No Brasil, a edição da **Lei Federal 12.846/2013 (Lei Anticorrupção ou Lei da Probidade Empresarial)** levantou esforços na prevenção e combate a práticas ilícitas praticadas contra a Administração Pública.
 
 **Complaince e o Direito:** Profissional de Direito pode atuar na condução e implementação de programas de compliance nas empresas como um orientador das exigências legais.
+
+**Complaince e a LGDP:** Para a segurança de dados e combater a "corrupção" nas empresas
 
 ## **O que é Direito Digital**
 
@@ -60,8 +66,27 @@ Ramo do direito que tem como objetivo proporcionar as normatizações e regulame
 
 A grande maioria das informações de pessoas, organizações e governos do mundo inteiro está contida atualmente na internet. Continuidade da economia e das sociedades está intrinsicamente à rede mundial de computadores. Área não só fundamental para a continuidade da evolução tecnológica e sua coabitação com o desenvolvimento humano, mas também crítica para a proteção desses dados e informações valiosíssimos para esses grupos.
 
+
+## **Outsourcing/Terceirização**
+
+**O que é:** Outsourcing (terceirização) é transferir tarefas, operações, trabalhos ou processos para uma força de trabalho externa, contratando terceiros por um período de tempo determinado.
+
+**Vantagens:**
+
+**Desvantagens:**
+
+## **Empresas Virtuais**
+
+**O que é:** Também chamada de ILTDA ou i-LTDA, é um tipo de entidade econômica que se realiza principalmente via Internet.
+
+**Vantagens:**
+
+**Desvantagens:**
+
 ## Referencias
 
 [Direito Digital](https://www.projuxaris.com.br/direito-digital/)
 
-[Compliance](http://genjuridico.com.br/2019/09/03/o-que-e-compliance-direito/)
+[Compliance 1](http://genjuridico.com.br/2019/09/03/o-que-e-compliance-direito/)
+
+[Compliance 2](https://www.totvs.com/blog/negocios/compliance/)
