@@ -47,6 +47,10 @@ O princípio da igualdade pressupõe que as pessoas colocadas em situações dif
 
 **Direito à segurança:** O art. 6, I, do CDC dispôe que o consumidor possui o direito básico de proteção à sua vida, saúde e segurança contra os riscos provocados por práticas no fornecimento de produtos e serviçoes considerados perigosos ou nocivos. Proteção a vida, saúde e segurança são direitos fundamentais inalienáveis, indisponíveis e indissociáveis, previstos no artigo 5° da constituição federal. A segurança faz parte do rol dos direitos fundamentais dos indivíduos, necessário ao natural desenvolvimento da personalidade humana e ao aperfeiçoamentp da vida em sociedade.
 
+**Linha do tempo:**
+
+Código de Defesa do Consumidor (1990) -> Lei do E-commerce  (2013) -> Marco Civil da Internet (2014) -> Lei Geral de Proteção de Dados Pessoais (2018)
+
 ## **Diferenças entre Leis, Normas e Regulamentos**
 
 **Leis:** É uma norma ou conjunto de normas jurídicas criadas através dos processos próprios do ato normativo e estabelecidas pelas autoridades competentes para o efeito. 
