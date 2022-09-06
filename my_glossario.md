@@ -49,7 +49,13 @@ O princípio da igualdade pressupõe que as pessoas colocadas em situações dif
 
 **Linha do tempo:**
 
-Código de Defesa do Consumidor (1990) -> Lei do E-commerce  (2013) -> Marco Civil da Internet (2014) -> Lei Geral de Proteção de Dados Pessoais (2018)
+Código de Defesa do Consumidor (1990) -> Lei do E-commerce (2013) -> Marco Civil da Internet (2014) -> Lei Geral de Proteção de Dados Pessoais (2018)
+
+**O que é dado pessoal:** Informação relacionada a pessoa natural identificada ou identificavel (Segundo a LGPDP).
+
+**Dados Pessoais VS Dados Pessoais Sensiveis:** 
+- **Dados Pessoais:** Nome, endereço, número de indentificação, etc...
+- **Dados Pessoais Sensiveis:** Origem racial, optiniôes politicas, dados medicos, etc...
 
 ## **Diferenças entre Leis, Normas e Regulamentos**
 
