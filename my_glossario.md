@@ -37,13 +37,15 @@ Direitos da personalidade são todos aqueles direitos que permitem que uma pesso
 
 **Direito anonimato:** O art.5, IV, da CF/88, diz que é livre a manifestação do pensamento, sendo vedado o anonimato. Intrinsecamente ligado ao direito de liberdade de expressão. É vedado o anonimato, salvo em casos de denúncias e ouvidorias de acordo com lei infraconstitucional.
 
-**Direito à informação:** No artigo 6, III, do CDC, prevê como direito básico do consumidor a obtenção de informação adequada sobre diferentes produtos e serviços. 
+**Direito à informação:** No art. 6, III, do CDC, prevê como direito básico do consumidor a obtenção de informação adequada sobre diferentes produtos e serviços. Posteriormente a Lei do E-commerce (Decreto Federal nº 7.962/2013) regulamentou o Código de Defesa do Consumidor em relação ao comércio eletrônico.
 
-**Direito ao sigilo:** 
+**Direito ao sigilo:** Refere-se aos fatos específicos que não convém ser divulgados, seja por razões pessoais, proficionais ou comerciais. o direito ao sigilo constitui um aspecto particular do direito à intimidade. É normal que a pessoa almeje que determinadas manifestações permaneçam inacessíveis ao conhecimento dos outros, ou seja, secretas. Assim em muitas hipóteses é ilícito não apenas divulgar tais manifestações, mas também o simples tomar conhecimento delas e ou revelá=las, não importa a quantas pessoas.
 
-**Direito de igualdade:** 
+**Direito de igualdade:**  O art. 5, I, da CF/88 estabelece que todos são iguais perante a lei. Significa que as necessidades de cada pessoa têm igual importância. Garantir que todas as pessoas tenham as mesmas oportunidades de participação. 
 
-**Direito à segurança:** 
+O princípio da igualdade pressupõe que as pessoas colocadas em situações diferentes sejam tratadas de forma desigual: "Dar tratamento isonômico às partes significa tratar igualmente os iguais e desigualmente os desiguais, na exata medida de suas desigualdades". (Nery Junior, 1999, p. 42).
+
+**Direito à segurança:** O art. 6, I, do CDC dispôe que o consumidor possui o direito básico de proteção à sua vida, saúde e segurança contra os riscos provocados por práticas no fornecimento de produtos e serviçoes considerados perigosos ou nocivos. Proteção a vida, saúde e segurança são direitos fundamentais inalienáveis, indisponíveis e indissociáveis, previstos no artigo 5° da constituição federal. A segurança faz parte do rol dos direitos fundamentais dos indivíduos, necessário ao natural desenvolvimento da personalidade humana e ao aperfeiçoamentp da vida em sociedade.
 
 ## **Diferenças entre Leis, Normas e Regulamentos**
 
