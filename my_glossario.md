@@ -27,6 +27,24 @@ O uso de outros métodos para a resolução de disputas colabora para o alcance 
 
 É o ramo do direito que lida com as relações jurídicas entre fornecedores de bens e serviços e seus consumidores.
 
+## **Conceitos Basicos**
+
+Direitos da personalidade são todos aqueles direitos que permitem que uma pessoa realize a sua individualidade e possa defender aquilo que é seu.
+
+**Direito à privaciade:** São inviolaveis a intimidade, a vida privada, a honra e a imagem das passoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação. É portanto, a exclusão do conhecimento alheio em relação aquilo que só diz respeito à própria pessoa, especialmente, quanto ao seu modo de ser. É o direito de estar só.
+
+**Direito de imagem e honra:** É um direito fundamental, prevendo indenização para o caso de sua violação. O código civil também traz regras sobre o direito de imagem e o classifica como um direito da personalidade. O art. 20 veda a exposição ou utilização da imagem de alguém sem permissão, caso o uso indevido atinja a sua honra, boa-fama, respeito ou se destine a fins comerciais. Contudo, há situações em que não é necessario a permissão, por exemplo, na administração da justiça ou à manutenção da ordem pública. Em casos mais graves o uso indevido pode ser considera um crime como previsto no artigo 218C do código penal.
+
+**Direito anonimato:** O art.5, IV, da CF/88, diz que é livre a manifestação do pensamento, sendo vedado o anonimato. Intrinsecamente ligado ao direito de liberdade de expressão. É vedado o anonimato, salvo em casos de denúncias e ouvidorias de acordo com lei infraconstitucional.
+
+**Direito à informação:** No artigo 6, III, do CDC, prevê como direito básico do consumidor a obtenção de informação adequada sobre diferentes produtos e serviços. 
+
+**Direito ao sigilo:** 
+
+**Direito de igualdade:** 
+
+**Direito à segurança:** 
+
 ## **Diferenças entre Leis, Normas e Regulamentos**
 
 **Leis:** É uma norma ou conjunto de normas jurídicas criadas através dos processos próprios do ato normativo e estabelecidas pelas autoridades competentes para o efeito. 
