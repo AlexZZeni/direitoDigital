@@ -142,6 +142,14 @@ Ramo do direito que tem como objetivo proporcionar as normatizações e regulame
 - Objetivos desalinhados
 - Maiores custos
 
+## **Tipos de Documentos Eletrônicos**
+
+**Documento Eletrônico:**
+
+**Assinatura Digital:**
+
+**Certificação Digital:**
+
 ## Referencias
 
 [Direito Digital](https://www.projuxaris.com.br/direito-digital/)
