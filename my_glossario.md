@@ -161,7 +161,7 @@ Exemplos:
 Precisa ter:
 - Proprietario/remetente 
 - Não alteravel/Integridade
-- Verificavel
+- Verificavel (empresa geradora do serviço ou no portal do governo ITI)
 
 **Assinatura Eletrônica:** Permite assinar documentos sem precisar do certificado digital. Atraves de selfie, botão condordo, escrever o nome, etc...
 
