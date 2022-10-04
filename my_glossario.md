@@ -144,11 +144,37 @@ Ramo do direito que tem como objetivo proporcionar as normatizações e regulame
 
 ## **Tipos de Documentos Eletrônicos**
 
-**Documento Eletrônico:** Um documento eletrônico é acessível e interpretável por meio de um equipamento eletrônico, podendo ser registrado e codificado em forma analógica ou em dígitos binários. Um documento digital pode ser um documento digitalizado ou um documento nato digital. Exemplos: Documentos originalmente fisicos que foram escaneados e digitalizados.
+**Documento Eletrônico:** Um documento eletrônico é acessível e interpretável por meio de um equipamento eletrônico, podendo ser registrado e codificado em forma analógica ou em dígitos binários. Um documento digital pode ser um documento digitalizado ou um documento nato digital.
 
-**Assinatura Digital:** A Assinatura Digital equivale a uma assinatura de próprio punho. É uma tecnologia que utiliza a criptografia e vincula o certificado digital ao documento eletrônico que está sendo assinado. Assim, dá garantias de integridade e autenticidade. Exemplos:
+Exemplos: 
+- Documentos originalmente fisicos que foram escaneados e digitalizados
+- Fita VHS
+- CD
+- DVD
 
-**Certificação Digital:** Certificado digital é um documento eletrônico que contém dados sobre a pessoa física ou jurídica que o utiliza, servindo como uma identidade virtual que confere validade jurídica e aspectos de segurança digital em transações digitais. Permite assinar documentos à distância com o mesmo valor jurídico da assinatura feita de próprio punho no papel, mas sem precisar reconhecer firma em cartório. Exemplos:
+**Documento Digital:** É um documento eletrônico acessado por meio de sistema computacional. Todo documento eletrônico é um documento digital.
+
+Exemplos:
+- CNH
+- E-Titulo
+
+Precisa ter:
+- Proprietario/remetente 
+- Não alteravel/Integridade
+- Verificavel
+
+**Assinatura Eletrônica:** Permite assinar documentos sem precisar do certificado digital. Atraves de selfie, botão condordo, escrever o nome, etc...
+
+**Assinatura Digital:** A Assinatura Digital equivale a uma assinatura de próprio punho. É uma tecnologia que utiliza a criptografia e vincula o *certificado digital* ao documento eletrônico que está sendo assinado. Assim, dá garantias de integridade e autenticidade do documento.
+- Segurança: Criptografica por chave hash (algoritmos MD5, SHA, ....)
+
+**Certificação Digital:** Certificado digital é um documento eletrônico que contém dados sobre a pessoa física ou jurídica que o utiliza, servindo como uma identidade virtual que confere validade jurídica e aspectos de segurança digital em transações digitais. Permite assinar documentos à distância com o mesmo valor jurídico da assinatura feita de próprio punho no papel, mas sem precisar reconhecer firma em cartório.
+
+Exemplos de provedores:
+- CertiSign
+- DocuSign
+- AdobeSign
+- ClickSign
 
 ## Referencias
 
