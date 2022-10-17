@@ -124,13 +124,15 @@ A grande maioria das informações de pessoas, organizações e governos do mund
   - A liberdade de aperfeiçoar o programa e liberar os seus aperfeiçoamentos, de modo que toda a comunidade beneficie deles (liberdade nº 3). O acesso ao código-fonte é um pré-requisito para esta liberdade.
 
   Exemplos: Núcleo Linux. 
-- **GNU FDL:** GNU Free Documentation License é uma licença para documentos e textos livres publicada pela Free Software Foundation. É inspirada na GNU General Public License, da mesma entidade, que é uma licença livre para software.
-- **GNU LGPL:** A GNU Lesser General Public License, escrita em 1991, é uma licença de software livre aprovada pela FSF e escrita como um meio-termo entre a GPL e licenças mais permissivas, tais como a licença BSD e a licença MIT.
-- **GNU AGPL:** A GNU Affero General Public License, ou simplesmente GNU Affero GPL, é uma licença de software livre publicada recentemente pela Free Software Foundation.
+- **GNU FDL:** GNU Free Documentation License é uma licença para documentos e textos livres publicada pela Free Software Foundation. É inspirada na GNU General Public License, da mesma entidade, que é uma licença livre para software. Permite que textos, apresentações e conteúdo de páginas na internet sejam distribuídos e reaproveitados, mantendo, porém, alguns direitos autorais e sem permitir que essa informação seja usada de maneira indevida.
+- **GNU LGPL:** A GNU Lesser General Public License, escrita em 1991, é uma licença de software livre aprovada pela FSF e escrita como um meio-termo entre a GPL e licenças mais permissivas, tais como a licença BSD e a licença MIT. Permite também a associação com programas que não estejam sob as licenças GPL ou LGPL.
+- **GNU AGPL:** A GNU Affero General Public License, ou simplesmente GNU Affero GPL, é uma licença de software livre publicada recentemente pela Free Software Foundation. Tem o propósito de ser uma licença minimamente modificada da GNU GPL e atender as necessidades de fornecer liberdade em softwares como serviços (SaaS, Software as a Service), ou seja, aqueles aos quais não se tem acesso direto ao binário/código-objeto.
 - **Licença livre:** Licença livre é toda licença que garante ao receptor de uma obra protegida por direito autoral, as liberdades de utilizar e gozar dos benefícios de seu uso, copiar e distribuir, estudar e modificar, e distribuir modificações daquela obra.
 - **Copyleft:** Copyleft é uma forma de usar a legislação de proteção dos direitos autorais com o objetivo de retirar barreiras à utilização, difusão e modificação de uma obra criativa devido à aplicação clássica das normas de propriedade intelectual, exigindo que as mesmas liberdades sejam preservadas em versões modificadas.
 
 **Principais licenças utilizadas no Github:**
+Ranking das licenças mais utilizadas no github em 2015.
+![](img/ranking_github.png)
 
 ## **O que é Compliance**
 
