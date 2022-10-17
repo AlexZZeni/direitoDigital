@@ -104,6 +104,34 @@ A grande maioria das informações de pessoas, organizações e governos do mund
 
 ![Mapa Mental](img/mapa_mental_3_leis.png)
 
+## **Licenças de Software**
+
+**O que é e para que serve:** Uma licença de software, ou licença de programa de computador, é uma definição de ações autorizadas, no âmbito do direito de um programador de software de computador concedidas ao usuário deste software. É o documento que define os limites de uso que um usuário pode ter em relação a um produto de terceiros.
+
+**Tipos de software:**
+- **Software Proprietário:** O software proprietário, privativo ou não livre, é um software para computadores que é licenciado com direitos exclusivos para o produtor. Conforme o local de distribuição do software este pode ser abrangido por patentes, direitos de autor assim como limitações para a sua exportação e uso em países terceiros
+- **Software de Domínio Público:** Software de domínio público é software não sujeito a copyright. Se o código fonte estiver no domínio público, este é um caso especial de software livre sem copyleft, o que significa que algumas cópias ou versões modificadas podem não ser livres.
+- **Adware:** Adware é qualquer programa de computador que executa automaticamente e exibe uma grande quantidade de anúncios sem a permissão do usuário. As funções do adware servem para analisar os locais de Internet que o usuário visita e lhe apresentar publicidade pertinente aos tipos de bens ou serviços apresentados lá.
+- **Freeware:** Software gratuito ou freeware é qualquer programa de computador cuja utilização não implica o pagamento de licenças de uso ou royalties. É importante não confundir o free de freeware com o free de free software, pois no primeiro uso o significado é de gratuito, e no segundo de livre.
+- **Shareware:** Shareware é um programa de computador disponibilizado gratuitamente, porém com algum tipo de limitação.
+- **Software de código aberto:** Software de código aberto é o software de computador com o seu código fonte disponibilizado e licenciado com uma licença de código aberto no qual o direito autoral fornece o direito de estudar, modificar e distribuir o software de graça para qualquer um e para qualquer finalidade.
+
+**Tipos de licença:**
+- **GNU General Public License:** GNU General Public License, GNU GPL ou simplesmente GPL, é a designação da licença de software para software idealizada por Richard Matthew Stallman em 1989, no âmbito do projeto GNU da Free Software Foundation. Sendo uma licença copyleft, trabalhos derivados de um produto originalmente licenciado pela GPL só podem ser distribuídos se utilizarem a mesma licença. Isso é diferente das licenças permissivas como a licença BSD e a licença MIT, que possuem exigências mais simples. São utilizadas por projetos de software livre e de código aberto. Além dos programas de software produzidos pelo Projeto GNU. A licença se baseia em 4 liberdades, são elas: 
+  - A liberdade de executar o programa, para qualquer propósito (liberdade nº 0)
+  - A liberdade de estudar como o programa funciona e adaptá-lo às suas necessidades (liberdade nº 1). O acesso ao código-fonte é um pré-requisito para esta liberdade.
+  - A liberdade de redistribuir cópias de modo que você possa ajudar ao seu próximo (liberdade nº 2).
+  - A liberdade de aperfeiçoar o programa e liberar os seus aperfeiçoamentos, de modo que toda a comunidade beneficie deles (liberdade nº 3). O acesso ao código-fonte é um pré-requisito para esta liberdade.
+
+  Exemplos: Núcleo Linux. 
+- **GNU FDL:** GNU Free Documentation License é uma licença para documentos e textos livres publicada pela Free Software Foundation. É inspirada na GNU General Public License, da mesma entidade, que é uma licença livre para software.
+- **GNU LGPL:** A GNU Lesser General Public License, escrita em 1991, é uma licença de software livre aprovada pela FSF e escrita como um meio-termo entre a GPL e licenças mais permissivas, tais como a licença BSD e a licença MIT.
+- **GNU AGPL:** A GNU Affero General Public License, ou simplesmente GNU Affero GPL, é uma licença de software livre publicada recentemente pela Free Software Foundation.
+- **Licença livre:** Licença livre é toda licença que garante ao receptor de uma obra protegida por direito autoral, as liberdades de utilizar e gozar dos benefícios de seu uso, copiar e distribuir, estudar e modificar, e distribuir modificações daquela obra.
+- **Copyleft:** Copyleft é uma forma de usar a legislação de proteção dos direitos autorais com o objetivo de retirar barreiras à utilização, difusão e modificação de uma obra criativa devido à aplicação clássica das normas de propriedade intelectual, exigindo que as mesmas liberdades sejam preservadas em versões modificadas.
+
+**Principais licenças utilizadas no Github:**
+
 ## **O que é Compliance**
 
 É um conjunto de mecanismos e procedimentos voltados à proteção da integridade e da ética das empresas, com o incentivo institucional à denúncia de irregularidades para apuração e punição.
