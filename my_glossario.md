@@ -128,11 +128,13 @@ A grande maioria das informações de pessoas, organizações e governos do mund
 - **GNU LGPL:** A GNU Lesser General Public License, escrita em 1991, é uma licença de software livre aprovada pela FSF e escrita como um meio-termo entre a GPL e licenças mais permissivas, tais como a licença BSD e a licença MIT. Permite também a associação com programas que não estejam sob as licenças GPL ou LGPL.
 - **GNU AGPL:** A GNU Affero General Public License, ou simplesmente GNU Affero GPL, é uma licença de software livre publicada recentemente pela Free Software Foundation. Tem o propósito de ser uma licença minimamente modificada da GNU GPL e atender as necessidades de fornecer liberdade em softwares como serviços (SaaS, Software as a Service), ou seja, aqueles aos quais não se tem acesso direto ao binário/código-objeto.
 - **Licença livre:** Licença livre é toda licença que garante ao receptor de uma obra protegida por direito autoral, as liberdades de utilizar e gozar dos benefícios de seu uso, copiar e distribuir, estudar e modificar, e distribuir modificações daquela obra.
-- **Copyleft:** Copyleft é uma forma de usar a legislação de proteção dos direitos autorais com o objetivo de retirar barreiras à utilização, difusão e modificação de uma obra criativa devido à aplicação clássica das normas de propriedade intelectual, exigindo que as mesmas liberdades sejam preservadas em versões modificadas.
+- **Copyleft:** Copyleft é uma forma de usar a legislação de proteção dos direitos autorais com o objetivo de retirar barreiras à utilização, difusão e modificação de uma obra criativa devido à aplicação clássica das normas de propriedade intelectual, exigindo que as mesmas liberdades sejam preservadas em versões modificadas. Licença mais famosa é a GPL.
 
 **Principais licenças utilizadas no Github:**
 Ranking das licenças mais utilizadas no github em 2015.
 ![](img/ranking_github.png)
+
+**Creative Commons:** 
 
 ## **O que é Compliance**
 
