@@ -35,7 +35,7 @@ Direitos da personalidade são todos aqueles direitos que permitem que uma pesso
 
 **Direito de imagem e honra:** É um direito fundamental, prevendo indenização para o caso de sua violação. O código civil também traz regras sobre o direito de imagem e o classifica como um direito da personalidade. O art. 20 veda a exposição ou utilização da imagem de alguém sem permissão, caso o uso indevido atinja a sua honra, boa-fama, respeito ou se destine a fins comerciais. Contudo, há situações em que não é necessario a permissão, por exemplo, na administração da justiça ou à manutenção da ordem pública. Em casos mais graves o uso indevido pode ser considera um crime como previsto no artigo 218C do código penal.
 
-**Direito anonimato:** O art.5, IV, da CF/88, diz que é livre a manifestação do pensamento, sendo vedado o anonimato. Intrinsecamente ligado ao direito de liberdade de expressão. É vedado o anonimato, salvo em casos de denúncias e ouvidorias de acordo com lei infraconstitucional.
+**Direito ao anonimato:** O art.5, IV, da CF/88, diz que é livre a manifestação do pensamento, sendo vedado o anonimato. Intrinsecamente ligado ao direito de liberdade de expressão. É vedado o anonimato, salvo em casos de denúncias e ouvidorias de acordo com lei infraconstitucional.
 
 **Direito à informação:** No art. 6, III, do CDC, prevê como direito básico do consumidor a obtenção de informação adequada sobre diferentes produtos e serviços. Posteriormente a Lei do E-commerce (Decreto Federal nº 7.962/2013) regulamentou o Código de Defesa do Consumidor em relação ao comércio eletrônico.
 
@@ -72,6 +72,21 @@ Regra, prescrição escrita que emana da autoridade soberana de uma dada socieda
 Um padrão ou costume estabelecido, boas praticas.
 
 ![Mapa Mental](img/mapa_mental_leis_normas_regulamentos.png)
+
+## **Dilema das Redes**
+
+**Reconhecimento de padrões:** 
+- Oferecer recomendações baseadas em reconhecimento de padrões
+- As recomendações acabam sendo *tendenciosas* que isolam o usuario
+- Agrupam pessoas com interesses similares, criando grupos ou bolhas
+- Algoritmo do aquário
+- Algoritmo de Influenciador
+- Doença fisica e emocional (distorção de realidade)
+
+**Inteligencia Artificial (AI):**
+- Redes neurais
+- Aprendizado de maquina (machine learning)
+- Estatisticas
 
 ## **Empresas Virtuais**
 
