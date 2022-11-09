@@ -105,6 +105,54 @@ Um padrão ou costume estabelecido, boas praticas.
 - Atrasos
 - Sistema antifraude
 
+## **E-\***
+
+**E-Learning:** O e-learning ou ensino eletrónico corresponde a um modelo de ensino não presencial apoiado em Tecnologia de Informação e Comunicação. Atualmente, o modelo de ensino/aprendizagem eletrônico assenta no ambiente online, aproveitando as capacidades da Internet para comunicação e distribuição de conteúdos.
+
+Vantagens:
+
+- Centralidade no aluno.
+- Convergente com as necessidades dos alunos.
+- Rápida atualização dos conteúdos.
+- Personalização dos conteúdos transmitidos.
+- Facilidade de acesso e flexibilidade de horários.
+- O ritmo de aprendizagem pode ser definido pelo próprio utilizador/formando.
+- Disponibilidade permanente dos conteúdos da formação.
+- Custos menores quando comparados à formação convencional.
+- Redução do tempo necessário para o formando.
+- Possibilidade de formação de um grande número de pessoas ao mesmo tempo.
+- Diversificação da oferta de cursos.
+- Facilidade de cobertura de públicos geograficamente dispersos.
+- Registro e possibilidade de acompanhamento detalhado da participação dos alunos.
+- Redução de custos logísticos e administrativos (deslocamentos, alimentação...).
+- Desenvolvimento de capacidades de autoestudo e autoaprendizagem
+
+Desvantagens:
+
+- Problemas técnicos relativos à internet, o que impossibilita o acesso aos serviços.
+- Dificuldades de adaptação à ferramenta e ao ambiente digital.
+- A tecnofobia ainda está presente em significativa parcela da população.
+- Necessidade de maior esforço para motivação dos alunos.
+- Exigência de maior disciplina e auto-organização por parte do aluno.
+- A criação e a preparação do curso on-line é, geralmente, mais demorada do que a da formação tradicional.
+- Não gera a possibilidade da existência de cumplicidades e vínculos relacionais que somente o processo de interação presencial permite.
+- O custo de implementação da estrutura para o desenvolvimento de um programa de e-learning é alto.[carece de fontes]
+- Dificuldades técnicas relativas à Internet e à velocidade de transmissão de imagens e vídeos.
+- Limitações no desenvolvimento da socialização do aluno.
+- Limitações em alcançar objetivos na área afetiva e de atitudes, pelo empobrecimento da troca direta de experiência entre professor e aluno
+
+**E-Market:**
+
+**E-Government:** Governo eletrônico, ou e-gov, consiste no uso das tecnologias da informação — além do conhecimento nos processos internos de governo — e na entrega dos produtos e serviços do Estado tanto aos cidadãos como à indústria, e no uso de ferramentas eletrônicas e tecnologia da informação para aproximar governo e cidadãos.
+
+Tipos de serviços prestados:
+
+- Prestação de contas (accountability)
+- Requisições
+- Espaço para discussões
+- Ouvidoria
+- Cadastro e serviços online
+
 ## **Importância do Direito Digital**
 
 A grande maioria das informações de pessoas, organizações e governos do mundo inteiro está contida atualmente na internet. Continuidade da economia e das sociedades está intrinsicamente à rede mundial de computadores. Área não só fundamental para a continuidade da evolução tecnológica e sua coabitação com o desenvolvimento humano, mas também crítica para a proteção desses dados e informações valiosíssimos para esses grupos.
