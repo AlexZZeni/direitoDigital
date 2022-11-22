@@ -141,7 +141,7 @@ Desvantagens:
 - Limitações no desenvolvimento da socialização do aluno.
 - Limitações em alcançar objetivos na área afetiva e de atitudes, pelo empobrecimento da troca direta de experiência entre professor e aluno
 
-**E-Market:**
+**E-Marketing:** O E-Marketing ou Marketing Digital é um novo conceito que está sendo utilizado pelas empresas, como uma nova fonte de inovação do marketing. Marketing Digital são ações que as empresas utilizam, através de ferramentas da internet, como por exemplo, emails e redes sociais, e com o uso da telefonia celular, através de mensagens de texto, e alguns outros meios digitais com o propósito de informatizar, divulgar seus produtos e serviços, conquistando novos clientes e fidelizando os atuais, melhorando e atraindo mais pessoas para sua rede de relacionamento. O marketing digital engloba a prática de promover com mais rapidez, através de canais de distribuição eletrônica, atingindo com mais eficácia novos clientes, de forma mais personalizada.
 
 **E-Government:** Governo eletrônico, ou e-gov, consiste no uso das tecnologias da informação — além do conhecimento nos processos internos de governo — e na entrega dos produtos e serviços do Estado tanto aos cidadãos como à indústria, e no uso de ferramentas eletrônicas e tecnologia da informação para aproximar governo e cidadãos.
 
